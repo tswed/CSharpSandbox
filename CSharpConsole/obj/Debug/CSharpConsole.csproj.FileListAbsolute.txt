@@ -1,0 +1,5 @@
+C:\src\CSharpSandbox\CSharpConsole\bin\Debug\CSharpConsole.exe.config
+C:\src\CSharpSandbox\CSharpConsole\bin\Debug\CSharpConsole.exe
+C:\src\CSharpSandbox\CSharpConsole\bin\Debug\CSharpConsole.pdb
+C:\src\CSharpSandbox\CSharpConsole\obj\Debug\CSharpConsole.exe
+C:\src\CSharpSandbox\CSharpConsole\obj\Debug\CSharpConsole.pdb

@@ -1,0 +1,12 @@
+C:\src\CSharpSandbox\CSharpConsole.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\src\CSharpSandbox\CSharpConsole.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\src\CSharpSandbox\CSharpConsole.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\src\CSharpSandbox\CSharpConsole.Tests\bin\Debug\CSharpConsole.Tests.dll
+C:\src\CSharpSandbox\CSharpConsole.Tests\bin\Debug\CSharpConsole.Tests.pdb
+C:\src\CSharpSandbox\CSharpConsole.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\src\CSharpSandbox\CSharpConsole.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\src\CSharpSandbox\CSharpConsole.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\src\CSharpSandbox\CSharpConsole.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\src\CSharpSandbox\CSharpConsole.Tests\obj\Debug\CSharpConsole.Tests.csprojResolveAssemblyReference.cache
+C:\src\CSharpSandbox\CSharpConsole.Tests\obj\Debug\CSharpConsole.Tests.dll
+C:\src\CSharpSandbox\CSharpConsole.Tests\obj\Debug\CSharpConsole.Tests.pdb
