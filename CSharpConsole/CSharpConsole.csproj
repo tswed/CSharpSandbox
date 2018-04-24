@@ -48,5 +48,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CSharpSandbox\CSharpSandbox.csproj">
+      <Project>{71e0b463-ace5-4148-b3d6-55beb04e9b1c}</Project>
+      <Name>CSharpSandbox</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

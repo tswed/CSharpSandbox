@@ -3,3 +3,6 @@ C:\src\CSharpSandbox\CSharpConsole\bin\Debug\CSharpConsole.exe
 C:\src\CSharpSandbox\CSharpConsole\bin\Debug\CSharpConsole.pdb
 C:\src\CSharpSandbox\CSharpConsole\obj\Debug\CSharpConsole.exe
 C:\src\CSharpSandbox\CSharpConsole\obj\Debug\CSharpConsole.pdb
+C:\src\CSharpSandbox\CSharpConsole\bin\Debug\CSharpSandbox.dll
+C:\src\CSharpSandbox\CSharpConsole\bin\Debug\CSharpSandbox.pdb
+C:\src\CSharpSandbox\CSharpConsole\obj\Debug\CSharpConsole.csprojResolveAssemblyReference.cache
