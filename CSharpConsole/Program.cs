@@ -12,6 +12,8 @@ namespace CSharpConsole
         static void Main(string[] args)
         {
             Console.WriteLine(Seasons.Fall);
+
+            //StructDate defaultDate = new StructDate();
         }
     }
 }
