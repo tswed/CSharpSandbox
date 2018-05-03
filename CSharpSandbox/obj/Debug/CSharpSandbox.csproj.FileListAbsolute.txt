@@ -3,3 +3,4 @@ C:\src\CSharpSandbox\CSharpSandbox\bin\Debug\CSharpSandbox.pdb
 C:\src\CSharpSandbox\CSharpSandbox\obj\Debug\CSharpSandbox.csprojResolveAssemblyReference.cache
 C:\src\CSharpSandbox\CSharpSandbox\obj\Debug\CSharpSandbox.dll
 C:\src\CSharpSandbox\CSharpSandbox\obj\Debug\CSharpSandbox.pdb
+C:\src\CSharpSandbox\CSharpSandbox\obj\Debug\CSharpSandbox.csproj.CoreCompileInputs.cache

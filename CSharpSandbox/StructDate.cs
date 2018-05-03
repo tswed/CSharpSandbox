@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharpSandbox
 {
-    struct StructDate
+    public struct StructDate
     {
         private int year;
         private int month;
@@ -14,14 +14,14 @@ namespace CSharpSandbox
 
         public StructDate(int yyyy, int mm, int dd)
         {
-            this.year = yyyy - 1900;
-            this.month = mm;
-            this.day = dd - 1;
+            year = yyyy - 1900;
+            month = mm;
+            day = dd - 1;
         }
 
         public override string ToString()
         {
-            return $"{this.month} {this.day + 1} {this.year + 1900}";
+            return $"{month} {day + 1} {year + 1900}";
         }
     }
 }

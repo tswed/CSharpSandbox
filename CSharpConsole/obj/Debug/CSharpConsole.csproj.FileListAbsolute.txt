@@ -6,3 +6,5 @@ C:\src\CSharpSandbox\CSharpConsole\obj\Debug\CSharpConsole.pdb
 C:\src\CSharpSandbox\CSharpConsole\bin\Debug\CSharpSandbox.dll
 C:\src\CSharpSandbox\CSharpConsole\bin\Debug\CSharpSandbox.pdb
 C:\src\CSharpSandbox\CSharpConsole\obj\Debug\CSharpConsole.csprojResolveAssemblyReference.cache
+C:\src\CSharpSandbox\CSharpConsole\obj\Debug\CSharpConsole.csproj.CoreCompileInputs.cache
+C:\src\CSharpSandbox\CSharpConsole\obj\Debug\CSharpConsole.csproj.CopyComplete
