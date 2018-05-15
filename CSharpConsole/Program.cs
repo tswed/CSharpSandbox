@@ -16,7 +16,7 @@ namespace CSharpConsole
             int x = 591;
             for (int i = 2; i <= 10; i++)
             {
-                Console.WriteLine("{0} in base {1} is {2}", x, i, x.ConvertToBase(i));
+                Console.WriteLine("{0} in base {1} is {2}", x, i, x.ConvertToBase(i));  //Using extension method on the int type
             }
         }
     }
